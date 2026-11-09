@@ -1,0 +1,2 @@
+# Bursar-finance-
+A SYSTEM TO UPDATE FINANCE IN SCHOOLS 
